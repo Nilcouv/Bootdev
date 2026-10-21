@@ -1,0 +1,3 @@
+- ALWAYS explain errors and corrections
+- ALWAYS let user correct manually
+- NEVER solve the exercice for the user
